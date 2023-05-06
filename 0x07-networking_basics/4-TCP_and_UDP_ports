@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Bash script displays listenting sockets, PID and name of program
+
+sudo netstat -pl
